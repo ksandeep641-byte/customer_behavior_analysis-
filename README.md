@@ -68,6 +68,8 @@ This project simulates a **corporate-grade end-to-end data analytics workflow**,
 ---
 
 ## 📈 Dashboard Preview
-*(Add screenshots here)*
+*<img width="1131" height="625" alt="image" src="https://github.com/user-attachments/assets/3f230493-4d6a-46f5-9106-801ec4f57a59" />
+*
 
 ---
+
